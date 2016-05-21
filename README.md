@@ -10,4 +10,4 @@ javac -cp src/main/java -d target/classes $(find src -name *.java)
 
 ## Running
 
-java -cp target/classes oet.wouter.java9.<ClassName>
+java -cp target/classes oet.wouter.java9.\<ClassName\>
