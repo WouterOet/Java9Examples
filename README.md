@@ -11,3 +11,7 @@ javac -cp src/main/java -d target/classes $(find src -name *.java)
 ## Running
 
 java -cp target/classes oet.wouter.java9.\<ClassName\>
+
+## Interesting stuff
+
+* [Microbenchmarking](https://www.youtube.com/watch?v=VaWgOCDBxYw&list=PLklQqdqnBkPjdiPGnXK-Yxc5WMLEyK1Ho&index=26)
