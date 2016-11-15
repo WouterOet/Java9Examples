@@ -6,7 +6,7 @@ This project demonstrates some of the new features of Java 9.
 
 Make sure Java 9 is on your path. Check with javac -version. It should be java 9-ea.
 
-javac -cp src/main/java -d target/classes $(find src -name *.java)
+javac -d target/classes $(find src -name *.java)
 
 ## Running
 
